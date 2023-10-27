@@ -1,16 +1,16 @@
 # GitHub Workshop
 
-Welcome to the GitHub Workshop's repository! In this repository, you will find resources and materials to help you learn about GitHub, Git, and Markdown. This README provides an overview of what you can expect in this workshop.
+Welcome to the (Sam Modified)GitHub Workshop's repository! In this repository, you will find resources and materials to help you learn about GitHub, Git, and Markdown. This README provides an overview of what you can expect in this workshop.
 
 ## Workshop Overview
 
 This workshop covers the following key topics:
 
-1. **Git and GitHub Basics**: Learn the fundamentals of version control and how to use GitHub for collaboration.
+1. **Git and GitHub Basics**: Learn the fundamentals of version control and how to use GitHub for collaboration.(I've to research on this a bit more)
 
-2. **Markdown**: Understand Markdown, a lightweight markup language used for text formatting.
+2. **Markdown**: Understand Markdown, a lightweight markup language used for text formatting.(This one went smoothly)
 
-3. **Hands-on Exercises**: Practice using Git and Markdown to collaborate and effectively create projects!
+3. **Hands-on Exercises**: Practice using Git and Markdown to collaborate and effectively create projects!(This was a done deal)
 
 
 ## Resources
@@ -26,9 +26,9 @@ Download and install the following in your laptops in the order given below: (if
 
 Feel free to mess around and explore GitHub!  🌐 
 
-🚀 Happy Coding! 🚀
+🚀 <u>Happy Coding!</u> 🚀
 
-<img src="https://firebasestorage.googleapis.com/v0/b/tasc-8df79.appspot.com/o/TASCLogo.png?alt=media&token=885899c8-a49c-46d7-9d22-ebc5507964db" width="100" />
+![Image](https://firebasestorage.googleapis.com/v0/b/tasc-8df79.appspot.com/o/TASCLogo.png?alt=media&token=885899c8-a49c-46d7-9d22-ebc5507964db)
 
 
 
